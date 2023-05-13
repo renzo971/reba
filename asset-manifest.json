@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/reba/static/css/main.68c68914.css",
-    "main.js": "/reba/static/js/main.755704be.js",
+    "main.js": "/reba/static/js/main.b274c73b.js",
     "static/js/787.0dd4df77.chunk.js": "/reba/static/js/787.0dd4df77.chunk.js",
     "static/media/defenzafe.png": "/reba/static/media/defenzafe.6c2a51bdefdb8db9c187.png",
     "static/media/guiarbautismo.jpg": "/reba/static/media/guiarbautismo.45a589043040e785ca52.jpg",
     "static/media/ganaralmas.jpg": "/reba/static/media/ganaralmas.237a9a910a5331857ac3.jpg",
     "index.html": "/reba/index.html",
     "main.68c68914.css.map": "/reba/static/css/main.68c68914.css.map",
-    "main.755704be.js.map": "/reba/static/js/main.755704be.js.map",
+    "main.b274c73b.js.map": "/reba/static/js/main.b274c73b.js.map",
     "787.0dd4df77.chunk.js.map": "/reba/static/js/787.0dd4df77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68c68914.css",
-    "static/js/main.755704be.js"
+    "static/js/main.b274c73b.js"
   ]
 }
